@@ -1,0 +1,6 @@
+android/__pycache__
+android/apk1.apk
+android/apk2.apk
+
+flaskapi/venv
+flaskapi/.env
